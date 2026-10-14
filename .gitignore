@@ -1,0 +1,9 @@
+.env
+.env.*
+!.env.example
+**/node_modules/
+frontend/dist/
+frontend/.angular/
+*.log
+.vscode/
+.idea/
